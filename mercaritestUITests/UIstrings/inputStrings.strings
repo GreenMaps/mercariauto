@@ -1,0 +1,11 @@
+/* 
+  inputStrings.strings
+  mercaritest
+
+  Created by Varun Raj on 2022/02/03.
+  
+ 
+*/
+/*--Userinput*/
+"FirstName" = "龍太";
+"LastName" = "佐藤";
